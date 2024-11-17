@@ -1,12 +1,69 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>叨叨叨</title>
+    <title>得闲饮茶</title>
     <link href="https://xxliyouxx.github.io/mogo/feed.xml" rel="self" />
     <link href="https://xxliyouxx.github.io/mogo" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2024-11-17T20:39:17+08:00</updated>
     <author>
         <name>Lee</name>
     </author>
     <id>https://xxliyouxx.github.io/mogo</id>
 
+    <entry>
+        <title>烧烤店</title>
+        <author>
+            <name>Lee</name>
+        </author>
+        <link href="https://xxliyouxx.github.io/mogo/shao-kao-dian.html"/>
+        <id>https://xxliyouxx.github.io/mogo/shao-kao-dian.html</id>
+        <media:content url="https://xxliyouxx.github.io/mogo/media/posts/4/Wei-Xin-Tu-Pian_20241117203824-2.jpg" medium="image" />
+            <category term="随便拍拍"/>
+
+        <updated>2024-11-17T20:39:17+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xxliyouxx.github.io/mogo/media/posts/4/Wei-Xin-Tu-Pian_20241117203824-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://xxliyouxx.github.io/mogo/media/posts/4/Wei-Xin-Tu-Pian_20241117203824.jpg" alt="" width="3072" height="4096" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-xs.jpg 300w ,https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-sm.jpg 480w ,https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-md.jpg 768w ,https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>上海中心大厦</title>
+        <author>
+            <name>Lee</name>
+        </author>
+        <link href="https://xxliyouxx.github.io/mogo/test3.html"/>
+        <id>https://xxliyouxx.github.io/mogo/test3.html</id>
+        <media:content url="https://xxliyouxx.github.io/mogo/media/posts/3/Wei-Xin-Tu-Pian_20241117202217-2.jpg" medium="image" />
+            <category term="随便拍拍"/>
+
+        <updated>2024-11-17T20:21:07+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xxliyouxx.github.io/mogo/media/posts/3/Wei-Xin-Tu-Pian_20241117202217-2.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://xxliyouxx.github.io/mogo/media/posts/3/Wei-Xin-Tu-Pian_20241117202217.jpg" alt="" width="3000" height="4000" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-xs.jpg 300w ,https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-sm.jpg 480w ,https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-md.jpg 768w ,https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>熙春新村</title>
+        <author>
+            <name>Lee</name>
+        </author>
+        <link href="https://xxliyouxx.github.io/mogo/test2.html"/>
+        <id>https://xxliyouxx.github.io/mogo/test2.html</id>
+        <media:content url="https://xxliyouxx.github.io/mogo/media/posts/2/Wei-Xin-Tu-Pian_20241117201813.jpg" medium="image" />
+            <category term="随便拍拍"/>
+
+        <updated>2024-11-17T19:43:32+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://xxliyouxx.github.io/mogo/media/posts/2/Wei-Xin-Tu-Pian_20241117201813.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy"  src="https://xxliyouxx.github.io/mogo/media/posts/2/Wei-Xin-Tu-Pian_20241117201813-2.jpg" alt="" width="2448" height="3264" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-xs.jpg 300w ,https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-sm.jpg 480w ,https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-md.jpg 768w ,https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-lg.jpg 1024w"></figure>
+            ]]>
+        </content>
+    </entry>
 </feed>

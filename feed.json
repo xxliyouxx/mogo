@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "叨叨叨",
+    "title": "得闲饮茶",
     "description": "",
     "home_page_url": "https://xxliyouxx.github.io/mogo",
     "feed_url": "https://xxliyouxx.github.io/mogo/feed.json",
@@ -9,5 +9,50 @@
         "name": "Lee"
     },
     "items": [
+        {
+            "id": "https://xxliyouxx.github.io/mogo/shao-kao-dian.html",
+            "url": "https://xxliyouxx.github.io/mogo/shao-kao-dian.html",
+            "title": "烧烤店",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xxliyouxx.github.io/mogo/media/posts/4/Wei-Xin-Tu-Pian_20241117203824.jpg\" alt=\"\" width=\"3072\" height=\"4096\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-xs.jpg 300w ,https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-sm.jpg 480w ,https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-md.jpg 768w ,https://xxliyouxx.github.io/mogo/media/posts/4/responsive/Wei-Xin-Tu-Pian_20241117203824-lg.jpg 1024w\"></figure>",
+            "image": "https://xxliyouxx.github.io/mogo/media/posts/4/Wei-Xin-Tu-Pian_20241117203824-2.jpg",
+            "author": {
+                "name": "Lee"
+            },
+            "tags": [
+                   "随便拍拍"
+            ],
+            "date_published": "2024-11-17T20:39:17+08:00",
+            "date_modified": "2024-11-17T20:39:17+08:00"
+        },
+        {
+            "id": "https://xxliyouxx.github.io/mogo/test3.html",
+            "url": "https://xxliyouxx.github.io/mogo/test3.html",
+            "title": "上海中心大厦",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xxliyouxx.github.io/mogo/media/posts/3/Wei-Xin-Tu-Pian_20241117202217.jpg\" alt=\"\" width=\"3000\" height=\"4000\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-xs.jpg 300w ,https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-sm.jpg 480w ,https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-md.jpg 768w ,https://xxliyouxx.github.io/mogo/media/posts/3/responsive/Wei-Xin-Tu-Pian_20241117202217-lg.jpg 1024w\"></figure>",
+            "image": "https://xxliyouxx.github.io/mogo/media/posts/3/Wei-Xin-Tu-Pian_20241117202217-2.jpg",
+            "author": {
+                "name": "Lee"
+            },
+            "tags": [
+                   "随便拍拍"
+            ],
+            "date_published": "2024-11-17T20:21:07+08:00",
+            "date_modified": "2024-11-17T20:23:46+08:00"
+        },
+        {
+            "id": "https://xxliyouxx.github.io/mogo/test2.html",
+            "url": "https://xxliyouxx.github.io/mogo/test2.html",
+            "title": "熙春新村",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://xxliyouxx.github.io/mogo/media/posts/2/Wei-Xin-Tu-Pian_20241117201813-2.jpg\" alt=\"\" width=\"2448\" height=\"3264\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-xs.jpg 300w ,https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-sm.jpg 480w ,https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-md.jpg 768w ,https://xxliyouxx.github.io/mogo/media/posts/2/responsive/Wei-Xin-Tu-Pian_20241117201813-2-lg.jpg 1024w\"></figure>",
+            "image": "https://xxliyouxx.github.io/mogo/media/posts/2/Wei-Xin-Tu-Pian_20241117201813.jpg",
+            "author": {
+                "name": "Lee"
+            },
+            "tags": [
+                   "随便拍拍"
+            ],
+            "date_published": "2024-11-17T19:43:32+08:00",
+            "date_modified": "2024-11-17T20:20:34+08:00"
+        }
     ]
 }
