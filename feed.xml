@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Mogo</title>
-    <link href="https://github.com/xxliyouxx/mogo/feed.xml" rel="self" />
-    <link href="https://github.com/xxliyouxx/mogo" />
+    <title>叨叨叨</title>
+    <link href="https://xxliyouxx.github.io/mogo/feed.xml" rel="self" />
+    <link href="https://xxliyouxx.github.io/mogo" />
     <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Lee</name>
     </author>
-    <id>https://github.com/xxliyouxx/mogo</id>
+    <id>https://xxliyouxx.github.io/mogo</id>
 
 </feed>
