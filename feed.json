@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Mogo",
+    "description": "",
+    "home_page_url": "https://github.com/xxliyouxx/mogo",
+    "feed_url": "https://github.com/xxliyouxx/mogo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Lee"
+    },
+    "items": [
+    ]
+}
